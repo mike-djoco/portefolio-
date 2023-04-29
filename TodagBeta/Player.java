@@ -1,3 +1,4 @@
+package TodagBeta;
 import java.util.Random;
 /**
 * Cette classe est 
